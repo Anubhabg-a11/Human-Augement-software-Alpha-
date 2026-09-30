@@ -1,0 +1,8 @@
+{
+  "name": "HumanAugment AI",
+  "description": "Smart Human Augmentation Monitoring & Analysis Platform - Industrial Ergonomics and Human Performance Telemetry",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
